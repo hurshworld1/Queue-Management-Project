@@ -1,0 +1,32 @@
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0  # YOLO
+
+# ML / Data Science
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+pandas>=2.0.0
+joblib>=1.3.0
+
+# Backend
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.5.0
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+python-multipart>=0.0.6
+websockets>=12.0
+
+# Database
+aiosqlite>=0.19.0
+databases>=0.9.0
+
+# Utils
+python-dotenv>=1.0.0
+loguru>=0.7.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+httpx>=0.25.0
